@@ -1,0 +1,47 @@
+nt = 0
+Liczba wykonan insert: 91378
+Sredni czas: 0.007244632187178533 ms
+Liczba wykonan find: 91378
+Sredni czas: 0.004563461664733305 ms
+Liczba wykonan delete: 91378
+Sredni czas: 0.0033925014773796757 ms
+
+nt = 8
+Liczba wykonan insert: 91378
+Sredni czas: 0.005176300641292215 ms
+Liczba wykonan find: 91378
+Sredni czas: 0.0022653155026373965 ms
+Liczba wykonan delete: 91378
+Sredni czas: 0.0021230493116505067 ms
+
+nt = 10
+Liczba wykonan insert: 91378
+Sredni czas: 0.004410251920593578 ms
+Liczba wykonan find: 91378
+Sredni czas: 0.002538904331458338 ms
+Liczba wykonan delete: 91378
+Sredni czas: 0.002101162205344831 ms
+
+nt = 12
+Liczba wykonan insert: 91378
+Sredni czas: 0.0047932762809428965 ms
+Liczba wykonan find: 91378
+Sredni czas: 0.0025717349909168507 ms
+Liczba wykonan delete: 91378
+Sredni czas: 0.002046444439580643 ms
+
+nt = 16
+Liczba wykonan insert: 91378
+Sredni czas: 0.0047823327277900585 ms
+Liczba wykonan find: 91378
+Sredni czas: 0.002626452756681039 ms
+Liczba wykonan delete: 91378
+Sredni czas: 0.002276259055790234 ms
+
+nt = 32
+Liczba wykonan insert: 91378
+Sredni czas: 0.004946486025082623 ms
+Liczba wykonan find: 91378
+Sredni czas: 0.0025936220972225263 ms
+Liczba wykonan delete: 91378
+Sredni czas: 0.002407581693624286 ms

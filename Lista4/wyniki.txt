@@ -1,0 +1,106 @@
+Powtorzenia:
+
+txt1.txt:
+bst:
+Liczba wykonan insert: 471371
+Sredni czas: 0.002787613153970015 ms
+Liczba wykonan find: 471371
+Sredni czas: 0.0013195550850603876 ms
+Srednia liczba porowanan: 21.860693593793425
+Maksymalna liczba porowanan: 67
+Minimalna liczba porowanan: 1
+Liczba wykonan delete: 471371
+Sredni czas: 0.0012368177083443826 ms
+
+rbt:
+Liczba wykonan insert: 471371
+Sredni czas: 0.003228879163122042 ms
+Liczba wykonan find: 471371
+Sredni czas: 0.0013322839122474654 ms
+Srednia liczba porowanan: 20.282034745455277
+Maksymalna liczba porowanan: 33
+Minimalna liczba porowanan: 1
+Liczba wykonan delete: 471371
+Sredni czas: 0.0012665183051142307 ms
+
+hmap:
+Liczba wykonan insert: 471371
+Sredni czas: 0.0029870314465675657 ms
+Liczba wykonan find: 471371
+Sredni czas: 0.0019729682139970426 ms
+Srednia liczba porowanan: 1.0293441896086097
+Maksymalna liczba porowanan: 13
+Minimalna liczba porowanan: 1
+Liczba wykonan delete: 471371
+Sredni czas: 0.0015274592624493234 ms
+
+========================================
+txt2.txt:
+bst:
+Liczba wykonan insert: 667257
+Sredni czas: 0.0015076649626755507 ms
+Liczba wykonan find: 667257
+Sredni czas: 0.0017459539577703944 ms
+Srednia liczba porowanan: 21.749240547495194
+Maksymalna liczba porowanan: 81
+Minimalna liczba porowanan: 1
+Liczba wykonan delete: 667257
+Sredni czas: 0.001067055122688859 ms
+
+rbt:
+Liczba wykonan insert: 667257
+Sredni czas: 0.0017144818263427734 ms
+Liczba wykonan find: 667257
+Sredni czas: 0.001264879948805333 ms
+Srednia liczba porowanan: 18.82311163464752
+Maksymalna liczba porowanan: 33
+Minimalna liczba porowanan: 1
+Liczba wykonan delete: 667257
+Sredni czas: 0.0010685537956139838 ms
+
+hmap:
+Liczba wykonan insert: 667257
+Sredni czas: 0.0020846540388485997 ms
+Liczba wykonan find: 667257
+Sredni czas: 0.0014117498954675635 ms
+Srednia liczba porowanan: 1.034007886016932
+Maksymalna liczba porowanan: 13
+Minimalna liczba porowanan: 1
+Liczba wykonan delete: 667257
+Sredni czas: 0.0011374927501697247 ms
+
+======================================
+Slownik:
+
+bst:
+Liczba wykonan insert: 91378
+Sredni czas: 1.0115126179167853 ms
+Liczba wykonan find: 91378
+Sredni czas: 0.3999649806299109 ms
+Srednia liczba porowanan: 91378.0
+Maksymalna liczba porowanan: 182755
+Minimalna liczba porowanan: 1
+Liczba wykonan delete: 91378
+Sredni czas: 0.0013132263783405195 ms
+
+rbt:
+Liczba wykonan insert: 91378
+Sredni czas: 0.004410251920593578 ms
+Liczba wykonan find: 91378
+Sredni czas: 0.002889098032349143 ms
+Srednia liczba porowanan: 30.59344700037208
+Maksymalna liczba porowanan: 59
+Minimalna liczba porowanan: 1
+Liczba wykonan delete: 91378
+Sredni czas: 0.0014554925693274093 ms
+
+hmap:
+Liczba wykonan insert: 91378
+Sredni czas: 0.004202324410689662 ms
+Liczba wykonan find: 91378
+Sredni czas: 0.0025498478846111756 ms
+Srednia liczba porowanan: 1.4554597386679506
+Maksymalna liczba porowanan: 7
+Minimalna liczba porowanan: 1
+Liczba wykonan delete: 91378
+Sredni czas: 0.002276259055790234 ms
